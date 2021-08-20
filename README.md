@@ -5,12 +5,13 @@
 This theme for Jenkins will replace the default blue weather icons with coloured icons.
 It requires the [Simple Theme Plugin](https://plugins.jenkins.io/simple-theme-plugin/).
 
-CSS url:
+To add the theme go to the "Manage Jenkins -> Configure System" page and under the "Theme elements" section add the following:
+CSS URL:
 ```text
 https://cdn.jsdelivr.net/gh/APEdevelopment/jenkins-colour-weather-icons/src/jenkins-colour-weather-icons.css
 ```
 
-JS url:
+JS URL:
 ```text
 https://cdn.jsdelivr.net/gh/APEdevelopment/jenkins-colour-weather-icons/src/jenkins-colour-weather-icons.js
 ```
