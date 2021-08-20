@@ -26,5 +26,4 @@ document.getElementsByTagName("body")[0].onload = function() {updateWeatherIcons
         useElement.href.baseVal = "#colour-weather-pouring";
       }
     }
-    document.getElementById("demo").innerHTML = "Done";
   }
