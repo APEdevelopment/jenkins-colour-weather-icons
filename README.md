@@ -11,3 +11,4 @@ CSS URL:
 ```text
 https://cdn.jsdelivr.net/gh/APEdevelopment/jenkins-colour-weather-icons@latest/src/jenkins-colour-weather-icons.css
 ```
+NOTE the @latest in the above url will get the latest, if you want a specific version you will need to change it, for instance @1.0.0 will get the first offical release.
