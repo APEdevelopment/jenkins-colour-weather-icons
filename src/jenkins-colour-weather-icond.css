@@ -1,0 +1,15 @@
+svg use[href*="weather-sprite.svg#weather-sunny"] {
+  display: none;
+}
+svg use[href*="weather-sprite.svg#weather-partly-cloudy"] {
+  display: none;
+}
+svg use[href*="weather-sprite.svg#weather-cloudy"] {
+  display: none;
+}
+svg use[href*="weather-sprite.svg#weather-rainy"] {
+  display: none;
+}
+svg use[href*="weather-sprite.svg#weather-pouring"] {
+  display: none;
+}
