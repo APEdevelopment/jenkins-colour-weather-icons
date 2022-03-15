@@ -16,7 +16,7 @@ JavaScript URL:
 https://cdn.jsdelivr.net/gh/APEdevelopment/jenkins-colour-weather-icons@1.1.2/src/jenkins-colour-weather-icons.js
 ```
 
-**For Jenkins 2.289.x LTS to 2.319.x**
+**For Jenkins 2.289.x LTS to 2.319.x LTS.**
 
 To add the theme go to the "Manage Jenkins -> Configure System" page and under the "Theme elements" section add the following:<br/>
 CSS URL:
